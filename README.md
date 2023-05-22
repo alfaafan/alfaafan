@@ -1,7 +1,29 @@
-- 👋 Hi, I’m @alfaafan
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack web development
-- 📫 You can reach me through https://linktr.ee/alfaafan
+# Hello World, I’m Alfaafan 👋
+I'm a passionate developer with a love for coding and creating innovative solutions. Welcome to my GitHub profile! Here you'll find a collection of my personal projects, open-source contributions, and more.
+
+## 💻 Technologies & Tools
+- Programming Languages: 
+  - JavaScript
+- Web Development:
+  - HTML/CSS
+  - React
+  - Next.js
+  - Node.js
+  - Express
+- Other Tools & Frameworks:
+  - Git
+  - Redux
+  - ESLint
+  - Jest
+  - Firebase
+  - Bootstrap
+  - TailwindCSS
+
+## 🚀 Projects
+
+## 📫 Get in Touch
+You can reach me through https://linktr.ee/alfaafan.
+Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
 <!---
 chelilac/chelilac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
