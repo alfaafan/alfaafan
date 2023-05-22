@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chelilac
+- 👋 Hi, I’m @alfaafan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack web development
 - 📫 You can reach me through https://linktr.ee/alfaafan
