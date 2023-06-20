@@ -1,6 +1,8 @@
 # Hello World, I’m Alfaafan 👋
 I'm a passionate developer with a love for coding and creating innovative solutions. Welcome to my GitHub profile! Here you'll find a collection of my personal projects, open-source contributions, and more.
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/644666bfe27257737496087a?variant=dark&roadmaps=javascript%2Cfrontend%2Cbackend%2Cgolang)](https://roadmap.sh)
+
 ## 💻 Technologies & Tools
 - Programming Languages: 
   - JavaScript
