@@ -21,6 +21,9 @@ I'm a passionate developer with a love for coding and creating innovative soluti
   - Bootstrap
   - TailwindCSS
 
+## 💼 Experience
+- Fullstack Web Development Bootcamp at Binar Academy
+
 ## 🚀 Projects
 
 ## 📫 Get in Touch
