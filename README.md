@@ -23,6 +23,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 
 ## 💼 Experience
 - Fullstack Web Development Bootcamp at Binar Academy
+- Generasi GIGIH 3.0 Full-Stack Engineering
 
 ## 🚀 Projects
 
