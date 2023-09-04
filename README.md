@@ -14,6 +14,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
   - Next.js
   - Node.js
   - Express
+  - MongoDB
 - Other Tools & Frameworks:
   - Git
   - Redux
