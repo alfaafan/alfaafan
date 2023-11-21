@@ -1,4 +1,9 @@
 # Hello World, I’m Alfaafan 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfaafan/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/alfaafan_)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/alfaafan.yusufa/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-blue?style=flat-square&logo=medium)](https://medium.com/@alfaafan)
+
 I'm a passionate developer with a love for coding and creating innovative solutions. Welcome to my GitHub profile! Here you'll find a collection of my personal projects, open-source contributions, and more.
 
 <a href="https://app.daily.dev/alfaafan"><img src="https://github.com/alfaafan/alfaafan/blob/main/devcard.svg" width="400" alt="Alfaafan's Dev Card"/></a>
