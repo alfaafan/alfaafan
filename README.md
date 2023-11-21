@@ -10,18 +10,20 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/644666bfe27257737496087a?variant=dark&roadmaps=javascript%2Cfrontend%2Cbackend%2Cgolang)](https://roadmap.sh)
 
 
-## 💻 Technologies & Tools
+## 💻 Stacks & Tools
 - Programming Languages: 
   - JavaScript
-- Web Development:
+- Stacks:
+  - Node.js
+  - Express.js
+  - MongoDB
+  - PostgreSQL
   - HTML/CSS
   - React
   - Next.js
-  - Node.js
-  - Express
-  - MongoDB
 - Other Tools & Frameworks:
   - Git
+  - Docker
   - Redux
   - ESLint
   - Jest
