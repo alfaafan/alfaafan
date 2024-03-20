@@ -14,14 +14,21 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 ## 💻 Stacks & Tools
 - Programming Languages: 
   - JavaScript
+  - C#
+  - Dart
 - Stacks:
   - Node.js
   - Express.js
   - MongoDB
   - PostgreSQL
+  - MS SQL Server
   - HTML/CSS
   - React
   - Next.js
+  - ASP.NET MVC
+  - ASP.NET WebForm
+  - ASP.NET WEb API
+  - Flutter
 - Other Tools & Frameworks:
   - Git
   - Docker
